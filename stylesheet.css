@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Vintage Melody Personal Use';
+    src: url('VintageMelodyPersonalUse.eot');
+    src: url('VintageMelodyPersonalUse.eot?#iefix') format('embedded-opentype'),
+        url('VintageMelodyPersonalUse.woff2') format('woff2'),
+        url('VintageMelodyPersonalUse.woff') format('woff'),
+        url('VintageMelodyPersonalUse.ttf') format('truetype'),
+        url('VintageMelodyPersonalUse.svg#VintageMelodyPersonalUse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vintage Rotter Personal Use';
+    src: url('VintageRotterPersonalUse.eot');
+    src: url('VintageRotterPersonalUse.eot?#iefix') format('embedded-opentype'),
+        url('VintageRotterPersonalUse.woff2') format('woff2'),
+        url('VintageRotterPersonalUse.woff') format('woff'),
+        url('VintageRotterPersonalUse.ttf') format('truetype'),
+        url('VintageRotterPersonalUse.svg#VintageRotterPersonalUse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
